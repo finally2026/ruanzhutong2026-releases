@@ -1,0 +1,57 @@
+{
+    "schemaVersion":  1,
+    "repo":  "finally2026/ruanzhutong2026-releases",
+    "updatedAt":  "2026-11-26T10:33:53Z",
+    "latest":  {
+                   "version":  "8.28.0",
+                   "tag":  "v8.28.0",
+                   "channel":  "stable",
+                   "status":  "active",
+                   "updateMode":  "prompt",
+                   "rolloutPercent":  100,
+                   "minSupportedVersion":  "",
+                   "platform":  "win32",
+                   "arch":  "x64",
+                   "installerFile":  "ruanzhutong-8.28.0-win-x64-setup.exe",
+                   "blockmapFile":  "ruanzhutong-8.28.0-win-x64-setup.exe.blockmap",
+                   "downloadUrl":  "https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe",
+                   "mirrorUrls":  [
+                                      "https://ghfast.top/https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe",
+                                      "https://gh-proxy.com/https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe",
+                                      "https://gh-proxy.org/https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe",
+                                      "https://ghproxy.net/https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe"
+                                  ],
+                   "blockmapUrl":  "https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe.blockmap",
+                   "sha256":  "c58ab87edc0b0a9eaace876518e93eab531e99f6a4ccbfe10c4dba9b1dce0bb4",
+                   "size":  164976830,
+                   "releaseNotes":  "V8.28.0 正式发布：新增自建远程版本控制中心、公开零源码分发仓国内镜像加速与 Windows NSIS 一键快速升级",
+                   "publishedAt":  "2026-11-26T10:33:53Z"
+               },
+    "releases":  [
+                     {
+                         "version":  "8.28.0",
+                         "tag":  "v8.28.0",
+                         "channel":  "stable",
+                         "status":  "active",
+                         "updateMode":  "prompt",
+                         "rolloutPercent":  100,
+                         "minSupportedVersion":  "",
+                         "platform":  "win32",
+                         "arch":  "x64",
+                         "installerFile":  "ruanzhutong-8.28.0-win-x64-setup.exe",
+                         "blockmapFile":  "ruanzhutong-8.28.0-win-x64-setup.exe.blockmap",
+                         "downloadUrl":  "https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe",
+                         "mirrorUrls":  [
+                                            "https://ghfast.top/https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe",
+                                            "https://gh-proxy.com/https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe",
+                                            "https://gh-proxy.org/https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe",
+                                            "https://ghproxy.net/https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe"
+                                        ],
+                         "blockmapUrl":  "https://github.com/finally2026/ruanzhutong2026-releases/releases/download/v8.28.0/ruanzhutong-8.28.0-win-x64-setup.exe.blockmap",
+                         "sha256":  "c58ab87edc0b0a9eaace876518e93eab531e99f6a4ccbfe10c4dba9b1dce0bb4",
+                         "size":  164976830,
+                         "releaseNotes":  "V8.28.0 正式发布：新增自建远程版本控制中心、公开零源码分发仓国内镜像加速与 Windows NSIS 一键快速升级",
+                         "publishedAt":  "2026-11-26T10:33:53Z"
+                     }
+                 ]
+}
